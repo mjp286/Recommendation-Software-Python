@@ -1,8 +1,10 @@
 from collections import deque
+class TreeNode:
 
-class TreeNode():
-
-    def __init__(self, genre = None):
+    def __init__(self, songs = None, album = None, artist = None, genre = None) -> None:
+        self.songs = songs
+        self.album = album
+        self.artist = artist
         self.genre = genre
         self.children = []
 
@@ -10,13 +12,12 @@ class TreeNode():
         self.children.append(child_node)
 
     def traverse(self):
-        node_to_visit = self
-    
-        while len(node_to_visit) > 0:
-            current_node = node_to_visit.pop()
+        nodes_to_visit = [self]
+        while len(nodes_to_visit) > 0:
+            current_node = nodes_to_visit.pop()
             print(current_node.name)
-            node_to_visit += current_node.children
-
+            nodes_to_visit += current_node.children
+# Tree Visualization helper ! 
     def __str__(self):
         stack = deque()
         stack.append([self, 0])
@@ -32,4 +33,5 @@ class TreeNode():
             for child in reversed(node.children):
                 stack.append([child, level])
 
-        return level_str 
+        return level_str
+            

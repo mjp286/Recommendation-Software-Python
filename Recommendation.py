@@ -3,7 +3,7 @@ from Data import genres, songs
 
 
 def introduction():
-    print("Welcome to the song recomender!") 
+    print("Welcome to the song recommender!") 
 
 
 def choices():
@@ -15,7 +15,7 @@ def choices():
         format_genres = []
         for i in genres:
             format_genres.append(i.capitalize())
-        genre = input(f"Here is list of possible genre: {format_genres} \n")
+        genre = input(f"Here is list of possible genres: {format_genres} \n")
         genre = genre.lower()
         if genre not in genres:
             print("Not on the list!")
@@ -38,7 +38,7 @@ def choices():
 
 
 def repeat():
-    repeat_ans = input("\n Do you want to get recomendations for another genre ?  | Y'\'N: ")
+    repeat_ans = input("\n Do you want to get recommendations for another genre ?  | Y'\'N: ")
     if repeat_ans.lower() == 'y':
         return True
     else:

@@ -1,10 +1,10 @@
-from Recomendation import introduction, choices, repeat
+from SongRecommendations import introduction, choices, repeat
 
 introduction()
-recomend = True
+recommend = True
 
-while recomend:
+while recommend:
     choices()
-    recomend = repeat()
+    recommend = repeat()
 
 print("\n Thank you for using the song recomender. Good Bye! ")

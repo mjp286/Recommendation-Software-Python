@@ -1,44 +1,44 @@
 songs,album,artist,writers,producer,released,position,genre,sub genre
-Like a Rolling Stone,Highway 61 Revisited (Columbia),Bob Dylan,Dylan,Tom Wilson ,"July, 1965",No. 2,rock,classic rock
-(I Can't Get No) Satisfaction',Out of Our Heads�(ABKCO),The Rolling Stones,"Mick Jagger, Keith Richards",Andrew Loog Oldham,"May, 1965",No. 1,rock,classic rock
-Imagine,Imagine�(Capitol/Apple),John Lennon,John Lennon,"Lennon, Phil Spector, Yoko Ono","October, 1971",No. 3,rock,classic rock
-What's Going On,What's Going On�(Tamla),Marvin Gaye,"Gaye, Renaldo Benson, Al Cleveland",Gaye�,"Feb, 1971",No. 2,R&B,soul
-Respect,I Never Loved a Man the Way I Love You�(Atlantic),Aretha Franklin,Otis Redding,Jerry Wexler,"April, 1967",No. 1,R&B,soul
-Good Vibrations,Smiley Smile/Wild Honey (Capitol)�,The Beach Boys,"Brian Wilson, Mike Love",Wilson,"October, 1966",No.1,rock,classic rock
-Johnny B. Goode,The Anthology (Chess),Chuck Berry,Chuck Berry,Leonard and Phil Chess,"April, 1958",No. 8,rock,oldies
-Hey Jude,1 (Capitol/Apple) ,The Beatles,"John Lennon, Paul McCartney",George Martin,"Aug, 1968",No. 1,rock,classic rock
-Smells Like Teen Spirit,Nevermind (DGC)�,Nirvana,Kurt Cobain,Butch Vig,"Sep, 1991",No. 6,rock,alternative
-What'd I Say,The Ultimate Hits Collection (Rhino),Ray Charles,Charles,"Ahmet Ertegun, Jerry Wexler","June, 1959",No. 6,R&B,soul
-My Generation,My Generation�(Universal)�,The Who,Pete Townshend,Shel Talmy,"Nov, 1965",No. 74,rock,classic rock
-A Change Is Gonna Come,Portrait of a Legend 1951-1964�(ABKCO)�,Sam Cooke,Cooke,"Hugo Peretti, Luigi Creatore","Dec, 1964",No. 31,R&B,soul
-Yesterday,Help!�(Capitol/Apple),The Beatles,"John Lennon, Paul McCartney",George Martin,"Sep, 1965",No. 1,rock,classic rock
+Like a Rolling Stone,Highway 61 Revisited (Columbia),Bob Dylan,Dylan,Tom Wilson ,"July, 1965",No. 2,classic rock,classic rock
+(I Can't Get No) Satisfaction',Out of Our Heads�(ABKCO),The Rolling Stones,"Mick Jagger, Keith Richards",Andrew Loog Oldham,"May, 1965",No. 1,classic rock,classic rock
+Imagine,Imagine�(Capitol/Apple),John Lennon,John Lennon,"Lennon, Phil Spector, Yoko Ono","October, 1971",No. 3,classic rock,classic rock
+What's Going On,What's Going On�(Tamla),Marvin Gaye,"Gaye, Renaldo Benson, Al Cleveland",Gaye�,"Feb, 1971",No. 2,soul,soul
+Respect,I Never Loved a Man the Way I Love You�(Atlantic),Aretha Franklin,Otis Redding,Jerry Wexler,"April, 1967",No. 1,soul,soul
+Good Vibrations,Smiley Smile/Wild Honey (Capitol)�,The Beach Boys,"Brian Wilson, Mike Love",Wilson,"October, 1966",No.1,classic rock,classic rock
+Johnny B. Goode,The Anthology (Chess),Chuck Berry,Chuck Berry,Leonard and Phil Chess,"April, 1958",No. 8,classic rock,classic rock
+Hey Jude,1 (Capitol/Apple) ,The Beatles,"John Lennon, Paul McCartney",George Martin,"Aug, 1968",No. 1,classic rock,classic rock
+Smells Like Teen Spirit,Nevermind (DGC)�,Nirvana,Kurt Cobain,Butch Vig,"Sep, 1991",No. 6,alternative,alternative
+What'd I Say,The Ultimate Hits Collection (Rhino),Ray Charles,Charles,"Ahmet Ertegun, Jerry Wexler","June, 1959",No. 6,soul,soul
+My Generation,My Generation�(Universal)�,The Who,Pete Townshend,Shel Talmy,"Nov, 1965",No. 74,classic rock,classic rock
+A Change Is Gonna Come,Portrait of a Legend 1951-1964�(ABKCO)�,Sam Cooke,Cooke,"Hugo Peretti, Luigi Creatore","Dec, 1964",No. 31,soul,soul
+Yesterday,Help!�(Capitol/Apple),The Beatles,"John Lennon, Paul McCartney",George Martin,"Sep, 1965",No. 1,classic rock,classic rock
 Blowin' in the Wind,The Freewheelin' Bob Dylan (Columbia) ,Bob Dylan,Dylan,John Hammond,"May, 1963",,folk,folk
-London Calling,London Calling�(Epic)�,The Clash,"Mick Jones, Joe Strummer",Guy Stevens,"Jan, 1980",,rock,alternative
-I Want to Hold Your Hand,Meet the Beatles!�(Capitol/Apple)�,The Beatles,"John Lennon, Paul McCartney",George Martin,"Dec, 1963",No. 1,rock,classic rock
-Purple Haze,Are You Experienced?�(Experience Hendrix)�,The Jimi Hendrix Experience,Hendrix,Chas Chandler,"March, 1967",No. 65,rock,classic rock
-Maybellene,The Anthology�(Chess)�,Chuck Berry,Berry,Leonard and Phil Chess,"July, 1955",No. 5,rock,oldies
-Hound Dog,Elvis 30 #1 Hits (RCA) ,Elvis Presley,"Jerry Leiber, Mike Stoller",Steve Sholes,"July, 1956",No. 1,rock,oldies
-Let It Be,Let It Be (Capitol/Apple),The Beatles,"John Lennon, Paul McCartney",George Martin,"March, 1970",No. 1,rock,classic rock
-Born to Run,Born to Run�(Columbia),Bruce Springsteen,Springsteen,"Springsteen, Mike Appel","Aug, 1975",No. 23,rock,classic rock
-Be My Baby,The Best of the Ronettes�(ABKCO),The Ronettes,"Jeff Barry, Ellie Greenwich",Spector,"Aug, 1963",No. 2,R&B,soul
-In My Life,Rubber Soul�(Capitol)�,The Beatles,"John Lennon, Paul McCartney",George Martin,"Dec, 1964",none,rock,classic rock
-People Get Ready,The Very Best of the Impressions�(Rhino),The Impressions,Curtis Mayfield,Johnny Pate,"Jan, 1965",No. 14,R&B,soul
-God Only Knows,Pet Sounds�(Capitol)�,The Beach Boys,"Brian Wilson, Tony Asher",Wilson,"May, 1966",No. 39,rock,classic rock
-(Sittin' on) the Dock of the Bay,The Dock of the Bay�(Atlantic)�,Otis Redding,"Redding, Steve Cropper",Cropper,"Jan, 1968",No. 1,R&B,soul
-Layla,Layla and Other Assorted Love Songs�(Polydor),Derek and the Dominos,"Eric Clapton, Jim Gordon","Tom Dowd, the Dominos","Nov, 1970",No. 10,rock,classic rock
-A Day in the Life,Sgt. Pepper's Lonely Hearts Club Band�(Capitol),The Beatles,"John Lennon, Paul McCartney",George Martin,"June, 1967",none,rock,classic rock
-Help!,Help!�(Capitol)�,The Beatles,"John Lennon, Paul McCartney",George Martin,"July, 1965 ",No. 1,rock,classic rock
+London Calling,London Calling�(Epic)�,The Clash,"Mick Jones, Joe Strummer",Guy Stevens,"Jan, 1980",,alternative,alternative
+I Want to Hold Your Hand,Meet the Beatles!�(Capitol/Apple)�,The Beatles,"John Lennon, Paul McCartney",George Martin,"Dec, 1963",No. 1,classic rock,classic rock
+Purple Haze,Are You Experienced?�(Experience Hendrix)�,The Jimi Hendrix Experience,Hendrix,Chas Chandler,"March, 1967",No. 65,classic rock,classic rock
+Maybellene,The Anthology�(Chess)�,Chuck Berry,Berry,Leonard and Phil Chess,"July, 1955",No. 5,classic rock,classic rock
+Hound Dog,Elvis 30 #1 Hits (RCA) ,Elvis Presley,"Jerry Leiber, Mike Stoller",Steve Sholes,"July, 1956",No. 1,classic rock,classic rock
+Let It Be,Let It Be (Capitol/Apple),The Beatles,"John Lennon, Paul McCartney",George Martin,"March, 1970",No. 1,classic rock,classic rock
+Born to Run,Born to Run�(Columbia),Bruce Springsteen,Springsteen,"Springsteen, Mike Appel","Aug, 1975",No. 23,classic rock,classic rock
+Be My Baby,The Best of the Ronettes�(ABKCO),The Ronettes,"Jeff Barry, Ellie Greenwich",Spector,"Aug, 1963",No. 2,soul,soul
+In My Life,Rubber Soul�(Capitol)�,The Beatles,"John Lennon, Paul McCartney",George Martin,"Dec, 1964",none,classic rock,classic rock
+People Get Ready,The Very Best of the Impressions�(Rhino),The Impressions,Curtis Mayfield,Johnny Pate,"Jan, 1965",No. 14,soul,soul
+God Only Knows,Pet Sounds�(Capitol)�,The Beach Boys,"Brian Wilson, Tony Asher",Wilson,"May, 1966",No. 39,classic rock,classic rock
+(Sittin' on) the Dock of the Bay,The Dock of the Bay�(Atlantic)�,Otis Redding,"Redding, Steve Cropper",Cropper,"Jan, 1968",No. 1,soul,soul
+Layla,Layla and Other Assorted Love Songs�(Polydor),Derek and the Dominos,"Eric Clapton, Jim Gordon","Tom Dowd, the Dominos","Nov, 1970",No. 10,classic rock,classic rock
+A Day in the Life,Sgt. Pepper's Lonely Hearts Club Band�(Capitol),The Beatles,"John Lennon, Paul McCartney",George Martin,"June, 1967",none,classic rock,classic rock
+Help!,Help!�(Capitol)�,The Beatles,"John Lennon, Paul McCartney",George Martin,"July, 1965 ",No. 1,classic rock,classic rock
 I Walk the Line,The Complete Original Sun Singles�(Varese Sarabande),Johnny Cash,Cash,Sam Phillips,"Aug, 1956",No. 17,country,outlaw
-Stairway to Heaven,Led Zeppelin IV (Atlantic) ,Led Zeppelin,"Jimmy Page, Robert Plant",Page,"Nov, 1971",none,rock,classic rock
-Sympathy for the Devil,Beggar's Banquet (ABKCO) ,The Rolling Stones,"Mick Jagger, Keith Richards",Jimmy Miller,"Dec, 1968",none,rock,classic rock
-River Deep - Mountain High,Proud Mary: The Best of Ike and Tina Turner (EMI),Ike and Tina Turner,"Phil Spector, Jeff Barry, Ellie Greenwich",Spector,"May, 1966",No. 88,R&B,soul
-You've Lost That Lovin' Feelin'',Anthology 1962-1974 (Rhino),The Righteous Brothers,"Phil Spector, Barry Mann, Cynthia Weil",Spector,"Dec, 1964",No. 1,rock,classic rock
-Light My Fire,The Doors�(Elektra),The Doors,"Robby Krieger, John Densmore, Jim Morrison, Ray Manzarek",Paul Rothchild,"June, 1967",No. 1,rock,classic rock
-One,Achtung Baby (Island) ,U2,"Bono, the Edge, Adam Clayton, Larry Mullen Jr.","Brian Eno, Daniel Lanois","Nov, 1991",No. 10,rock,alternative
+Stairway to Heaven,Led Zeppelin IV (Atlantic) ,Led Zeppelin,"Jimmy Page, Robert Plant",Page,"Nov, 1971",none,classic rock,classic rock
+Sympathy for the Devil,Beggar's Banquet (ABKCO) ,The Rolling Stones,"Mick Jagger, Keith Richards",Jimmy Miller,"Dec, 1968",none,classic rock,classic rock
+River Deep - Mountain High,Proud Mary: The Best of Ike and Tina Turner (EMI),Ike and Tina Turner,"Phil Spector, Jeff Barry, Ellie Greenwich",Spector,"May, 1966",No. 88,soul,soul
+You've Lost That Lovin' Feelin'',Anthology 1962-1974 (Rhino),The Righteous Brothers,"Phil Spector, Barry Mann, Cynthia Weil",Spector,"Dec, 1964",No. 1,classic rock,classic rock
+Light My Fire,The Doors�(Elektra),The Doors,"Robby Krieger, John Densmore, Jim Morrison, Ray Manzarek",Paul Rothchild,"June, 1967",No. 1,classic rock,classic rock
+One,Achtung Baby (Island) ,U2,"Bono, the Edge, Adam Clayton, Larry Mullen Jr.","Brian Eno, Daniel Lanois","Nov, 1991",No. 10,alternative,alternative
 "No Woman, No Cry",Natty Dread�(Island),Bob Marley,"Vincent Ford, Marley","Chris Blackwell, Marley and the Wailers","May, 1975",none,reggae,reggae
-Gimme Shelter,Let It Bleed�(ABKCO)�,The Rolling Stones,"Mick Jagger, Keith Richards",Jimmy Miller,"April, 1969",No. 21,rock,classic rock
-That'll Be the Day,Greatest Hits (MCA)�,Buddy Holly and the Crickets,"Jerry Allison, Holly, Norman Petty",Petty,"May, 1957",No. 1,rock,oldies
-Dancing in the Street,The Ultimate Collection (Motown),Martha Reeves and the Vandellas,"Marvin Gaye, Ivy Hunter, William ""Mickey"" Stevenson",Stevenson,"Sept, 1964",No. 2,R&B,soul
+Gimme Shelter,Let It Bleed�(ABKCO)�,The Rolling Stones,"Mick Jagger, Keith Richards",Jimmy Miller,"April, 1969",No. 21,classic rock,classic rock
+That'll Be the Day,Greatest Hits (MCA)�,Buddy Holly and the Crickets,"Jerry Allison, Holly, Norman Petty",Petty,"May, 1957",No. 1,soul,classic rock
+Dancing in the Street,The Ultimate Collection (Motown),Martha Reeves and the Vandellas,"Marvin Gaye, Ivy Hunter, William ""Mickey"" Stevenson",Stevenson,"Sept, 1964",No. 2,soul,soul
 The Weight,Music From Big Pink (Capitol),The Band,Robbie Robertson,John Simon,"Aug, 1968",No. 63,classic rock,
 Waterloo Sunset,Something Else by the Kinks (Warner Bros.),The Kinks,Ray Davies,Ray Davies,"Feb, 1968",none,classic rock,
 Tutti-Frutti,The Georgia Peach (Specialty),Little Richard,"Dorothy La Bostrie, Richard Penniman, Joe Lubin","Robert ""Bumps"" Blackwell","Dec, 1955",No. 17,classic rock,
@@ -299,7 +299,7 @@ Money Honey,Greatest Hits (Curb),The Drifters,Jesse Stone,"Ahmet Ertegun, Jerry 
 Paranoid,Paranoid (Castle),Black Sabbath,"Geezer Butler, Tony Iommi, Ozzy Osbourne, William Ward",Rodger Bain,"Nov. , 1970", No. 61 ,classic rock,
 Chain of Fools,Lady Soul (Rhino),Aretha Franklin,Don Covay,Jerry Wexler,"Nov. , 1967", No. 2 ,soul,
 Rappers Delight,Rappers Delight: The Best of Sugarhill Gang (Rhino),Sugarhill Gang,"S. Robinson, H. Jackson, M. Wright, G. O’Brien",Sylvia Robinson,"Oct. , 1979", No. 36 ,rap,
-The Harder They Come,The Harder They Come (Island),Jimmy Cliff,Cliff,Cliff,"March , 1975",,raggae,
+The Harder They Come,The Harder They Come (Island),Jimmy Cliff,Cliff,Cliff,"March , 1975",,reggae,
 Baba ORiley,Who’s Next (MCA),The Who,Pete Townshend,"Glyn Johns, the Who","Aug. , 1971",,classic rock,
 You Keep Me Hanging On,The Ultimate Collection (Motown),The Supremes,"Brian Holland,Lamont Dozier, Eddie Holland","Brian Holland, Dozier","Oct. , 1966", No. 1,soul,
 Maybe Im Amazed,McCartney (Capitol),Paul McCartney,McCartney,McCartney,"April , 1970", No. 10,classic rock,
@@ -319,7 +319,7 @@ Get Up (I Feel Like Being a) Sex Machine,50th Anniversary Collection (UTV/Polydo
 Good Lovin,The Very Best of the Rascals (Rhino),The Young Rascals,"Rudy Clark, Arthur Resnick","Tom Dowd, Arif Mardin","March , 1966", No. 1 ,classic rock,
 Baby Love,The Ultimate Collection (Motown),The Supremes,"Brian Holland,Lamont Dozier, Eddie Holland","Brian Holland, Dozier","Sept. , 1964", No. 1,soul,
 Dancing Barefoot,Wave (Arista),Patti Smith Group,"Smith, Ivan Kral",Todd Rundgren,"May , 1979",,alternative,
-Fight the Power,Fear of a Black Planet (Def Jam),Public Enemy,"Chuck D, Eric Sadler, Hank Shocklee, Keith Shocklee","Sadler, Hank Shocklee","June , 1989",,r,
+Fight the Power,Fear of a Black Planet (Def Jam),Public Enemy,"Chuck D, Eric Sadler, Hank Shocklee, Keith Shocklee","Sadler, Hank Shocklee","June , 1989",,rap,
 Cortez the Killer,Zuma (Reprise),Neil Young,Young,"Young, David Briggs","Nov. , 1975",,classic rock,
 Heartbreaker,Led Zeppelin II (Atlantic),Led Zeppelin,"Jimmy Page, Robert Plant, John Bonham, John Paul Jones",Page,"Oct. , 1969",,classic rock,
 Take Me Out,Franz Ferdinand (Domino),Franz Ferdinand,"Alex Kapranos, Nick McCarthy",Tore Johansson,"Feb. , 2004", No. 66,alternative,
@@ -399,7 +399,7 @@ La Bamba,The Ritchie Valens Story (Rhino),Ritchie Valens,William Clauson,Bob Kea
 Piece of My Heart,Cheap Thrills (Columbia),Big Brother and the Holding Company,"Bert Berns, Jerry Ragovoy",John Simon,"Aug. , 1968", No. 12,classic rock,
 Jim Dandy,Soul on Fire: The Best of LaVern Baker (Atlantic),Lavern Baker,Lincoln Chase,"Ahmet Ertegun,Jerry Wexler","Dec. , 1956", No. 17,soul,
 Runaround Sue,Runaround Sue (Capitol),Dion,"Dion DiMucci, Ernie Maresca",Gene Schwartz,"Sept. , 1961", No. 1,classic rock,
-I Shot the Sheriff,Burnin' (Island),Bob Marley and the Wailers,Marley,Chris Blackwell,"Oct. , 1973",,raggae,
+I Shot the Sheriff,Burnin' (Island),Bob Marley and the Wailers,Marley,Chris Blackwell,"Oct. , 1973",,reggae,
 Come Go With Me,Golden Classics (Collectables),The Dell-Vikings,Clarence E. Quick,Joe Averbach,"Feb. , 1957", No. 5,soul,
 In Da Club,Get Rich or Die Tryin' (Interscope/Aftermath/Shady),50 Cent,"50 Cent, Dr. Dre, Mike Elizondo","Dr. Dre, Elizondo","Dec. , 2002", No. 1,rap,
 Pink Houses,Uh-Huh (Mercury),John Cougar Mellencamp,Mellencamp,"Little Bastard, Don Gehman","Oct. , 1983", No. 8,classic rock,

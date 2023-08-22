@@ -1,4 +1,5 @@
 from collections import deque
+
 class TreeNode:
 
     def __init__(self, songs = None, album = None, artist = None, genre = None) -> None:

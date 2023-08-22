@@ -1,7 +1,5 @@
 from Data import genres, songs
 
-
-
 def introduction():
     print("Welcome to the song recommender!") 
 
@@ -26,7 +24,7 @@ def choices():
     if song.lower() == 'y':
             format_list = []
             for item in songs[genre]:
-                format_list.append(item.capitalize().replace("_", " "))
+                format_list.append(item.capitalize())
 
             if not format_list:
                 print("No songs available for this genre.")
